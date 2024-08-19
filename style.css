@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Sriracha", cursive;
+}
+.carousel-item{
+    height: 700px;
+}
+/* รูปภาพ */
+.carousel-image-1{
+    background-image: url(img/กระต่าย.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/ควาย.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/ช้าง.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/ม้าลาย.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/รวมสัตว์.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/ลิง.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/หมา.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/หมู.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/เป็ด.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/เสือ.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/แมว.jpg);
+    background-size: cover;
+}
